@@ -105,21 +105,21 @@ For a list of supported devices see the [OpenWrt Hardware Database](https://open
 
 ### Flash instruction using TFTP Recovery ~(Archer A & C 7)
 
-1.  Connect a computer to one of the LAN ports of the Archer. 
+[1.]  Connect a computer to one of the LAN ports of the Archer. 
 
-2.  Set the computers IP address to 192.168.0.66.
+[2.]  Set the computers IP address to 192.168.0.66.
 
-3a. Rename the OpenWrt Factory Image to ArcherC7v5_tp_recovery.bin.
+[3a.] Rename the OpenWrt Factory Image to ArcherC7v5_tp_recovery.bin.
 
-The Archer A7 expects the same filename as the C7.
+[The Archer A7 expects the same filename as the C7.]
 
-3b.  Start a TFTP Server with the renamed OpenWrt Factory Image in the TFTP root directory.
+[3b.]  Start a TFTP Server with the renamed OpenWrt Factory Image in the TFTP root directory.
 
-4.  Connect the power cable to the Archer.  Press and hold the reset button while turning the router on. 
+[4.]  Connect the power cable to the Archer.  Press and hold the reset button while turning the router on. 
 
-5.  Keep the reset button pressed for ~5 seconds, then release. 
+[5.]  Keep the reset button pressed for ~5 seconds, then release. 
 
-6.  Wait ~150 seconds for flashing to complete. 
+[6.]  Wait ~150 seconds for flashing to complete. 
 
 ## License
 
