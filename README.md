@@ -103,7 +103,7 @@ For a list of supported devices see the [OpenWrt Hardware Database](https://open
 * [Dev Mailing List](https://lists.openwrt.org/mailman/listinfo/openwrt-devel): Send patches
 * [Dev Chat](https://webchat.oftc.net/#openwrt-devel): Channel `#openwrt-devel` on **oftc.net**.
 
-###Flash instruction using TFTP Recovery ~(Archer A & C 7)
+### Flash instruction using TFTP Recovery ~(Archer A & C 7)
 
 1.  Connect a computer to one of the LAN ports of the Archer. 
 
