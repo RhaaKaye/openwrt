@@ -119,7 +119,7 @@ For a list of supported devices see the [OpenWrt Hardware Database](https://open
 
 [5.]  Keep the reset button pressed for ~5 seconds, then release. 
 
-[6]  Wait ~150 seconds for flashing to complete. 
+[6].  Wait ~150 seconds for flashing to complete. 
 
 ## License
 
